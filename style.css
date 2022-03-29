@@ -1,0 +1,52 @@
+body{
+	background-image: url(sky.jpg);
+}
+
+.btn {
+	position: absolute;
+	TOP: 350px;
+	left: 650px;
+
+
+}
+.btn2{
+	position: absolute;
+	TOP: 50px;
+	left: 50px;
+
+
+
+}
+
+.text {
+	color: white;
+	position: absolute;
+	TOP: 550px;
+	left: 450px;
+	color:rgb(231, 0, 66);
+
+}
+
+.btn:hover{
+	transition: 1s;
+	transform: rotate(360deg);
+	box-shadow: 2px 2px black;
+}
+
+/*.btn2:hover{
+	transition: 1s;
+	transform: rotate(360deg);
+	box-shadow: 2px 2px black;*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
